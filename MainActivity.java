@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> infixEq= new ArrayList<String>();
 
     //one case not handles: single decimal point
+    //backspace for x doesn't work
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

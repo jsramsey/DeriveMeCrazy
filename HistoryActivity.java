@@ -26,5 +26,6 @@ public class HistoryActivity extends AppCompatActivity {
 
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         listView.setAdapter(adapter);
+        //this is new
     }
 }
